@@ -1,0 +1,47 @@
+body {
+  background-color: pink;
+}
+h2{
+  text-align: left;
+}
+table{
+border-collapse: collapse;
+width: 50%;
+background-color: blanchedalmond;
+}
+table,th,td {
+  border: 1px solid black;
+}
+
+th,td{
+  padding: 30px;
+  text-align: left;
+}
+
+#table-2 {
+  border-collapse: collapse;
+  width: 50%;
+  background-color: blanchedalmond;
+  margin: 20px 10px
+}
+ 
+#table-3{
+  border-collapse: collapse;
+  width: 50%;
+  background-color: blanchedalmond;
+  margin: 20px 5% 5px;
+}
+
+#table-4{
+  border-collapse: collapse;
+  width: 50%;
+  background-color: blanchedalmond;
+  margin: 10px 15px 20px 5px;
+}
+
+#table-5{
+  border-collapse: collapse;
+  width: 50%;
+  background-color: blanchedalmond;
+  padding-left: 10%;
+}
